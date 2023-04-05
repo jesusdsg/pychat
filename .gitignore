@@ -98,6 +98,8 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+openai.models.json
+
 # SageMath parsed files
 *.sage.py
 
